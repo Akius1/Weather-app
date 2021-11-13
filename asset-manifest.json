@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/weather-app/static/js/main.dce05e8e.chunk.js",
-    "main.js.map": "/weather-app/static/js/main.dce05e8e.chunk.js.map",
-    "runtime-main.js": "/weather-app/static/js/runtime-main.dc597c36.js",
-    "runtime-main.js.map": "/weather-app/static/js/runtime-main.dc597c36.js.map",
-    "static/css/2.6da274ce.chunk.css": "/weather-app/static/css/2.6da274ce.chunk.css",
-    "static/js/2.35bef85b.chunk.js": "/weather-app/static/js/2.35bef85b.chunk.js",
-    "static/js/2.35bef85b.chunk.js.map": "/weather-app/static/js/2.35bef85b.chunk.js.map",
-    "static/js/3.298b7e83.chunk.js": "/weather-app/static/js/3.298b7e83.chunk.js",
-    "static/js/3.298b7e83.chunk.js.map": "/weather-app/static/js/3.298b7e83.chunk.js.map",
-    "index.html": "/weather-app/index.html",
-    "static/css/2.6da274ce.chunk.css.map": "/weather-app/static/css/2.6da274ce.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/weather-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.35bef85b.chunk.js.LICENSE.txt": "/weather-app/static/js/2.35bef85b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/weather-app/static/media/montserrat-vietnamese-400-normal.968b706e.woff2"
+    "main.css": "/Weather-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Weather-app/static/js/main.dce05e8e.chunk.js",
+    "main.js.map": "/Weather-app/static/js/main.dce05e8e.chunk.js.map",
+    "runtime-main.js": "/Weather-app/static/js/runtime-main.f0ca3c6a.js",
+    "runtime-main.js.map": "/Weather-app/static/js/runtime-main.f0ca3c6a.js.map",
+    "static/css/2.031c54f8.chunk.css": "/Weather-app/static/css/2.031c54f8.chunk.css",
+    "static/js/2.b5177587.chunk.js": "/Weather-app/static/js/2.b5177587.chunk.js",
+    "static/js/2.b5177587.chunk.js.map": "/Weather-app/static/js/2.b5177587.chunk.js.map",
+    "static/js/3.298b7e83.chunk.js": "/Weather-app/static/js/3.298b7e83.chunk.js",
+    "static/js/3.298b7e83.chunk.js.map": "/Weather-app/static/js/3.298b7e83.chunk.js.map",
+    "index.html": "/Weather-app/index.html",
+    "static/css/2.031c54f8.chunk.css.map": "/Weather-app/static/css/2.031c54f8.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Weather-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b5177587.chunk.js.LICENSE.txt": "/Weather-app/static/js/2.b5177587.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Weather-app/static/media/montserrat-vietnamese-400-normal.968b706e.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc597c36.js",
-    "static/css/2.6da274ce.chunk.css",
-    "static/js/2.35bef85b.chunk.js",
+    "static/js/runtime-main.f0ca3c6a.js",
+    "static/css/2.031c54f8.chunk.css",
+    "static/js/2.b5177587.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.dce05e8e.chunk.js"
   ]
