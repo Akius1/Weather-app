@@ -15,7 +15,7 @@ This is portable react js web application for weather forecasting and current we
 ### Getting Started With the app
 
 1. Clone this repository into your local machine:
-[clone](https://github.com/Akius1/Weather-app)
+[https://github.com/Akius1/Weather-app](https://github.com/Akius1/Weather-app)
 
 2. Install dependencies
     `yarn`
@@ -24,4 +24,4 @@ This is portable react js web application for weather forecasting and current we
     `yarn start`
 
 #### Hosted on:
-[clone](https://github.com/Akius1/Weather-app)
+[http://Akius1.github.io/Weather-app](http://Akius1.github.io/Weather-app)
