@@ -75,7 +75,10 @@ export const WeatherCardContainer = ({ data }) => {
     );
   };
   return (
-    <Flex flexDirection="column" alignItems="center">
+    <Flex
+      flexDirection="column"
+      alignItems="center"
+    >
       <Carousel
         renderArrow={renderArrow}
         pagination={false}

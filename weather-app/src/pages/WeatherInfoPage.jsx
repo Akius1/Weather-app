@@ -69,10 +69,12 @@ export const WeatherInfo = () => {
     }
   }, [isError, error, toast]);
   return (
-    <Flex direction="column" background="#2052D1" h="100vh" >
-      <Flex direction="column" background="linear-gradient(120deg,rgba(255,255,255,0.3),transparent)" backdropFilter="blur(30px)" >
-
-      </Flex>
+    <Flex direction="column" background="#31255a" h="100vh">
+      <Flex
+        direction="column"
+        background="linear-gradient(120deg,rgba(255,255,255,0.3),transparent)"
+        backdropFilter="blur(30px)"
+      ></Flex>
       {isLoading && coord !== undefined ? (
         <AppLoader />
       ) : (

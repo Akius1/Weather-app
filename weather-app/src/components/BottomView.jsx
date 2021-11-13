@@ -49,8 +49,9 @@ export const Bottom = ({ reload, data }) => {
       pt="7"
       pos="relative"
       overflowY="scroll"
-       background="linear-gradient(120deg,rgba(255,255,255,0.3),transparent)"
-        backdropFilter="blur(30px)"
+      // background="#75b4e3"
+      background="linear-gradient(120deg,rgba(255,255,255,0.3),transparent)"
+      backdropFilter="blur(30px)"
     >
       <IconButton
         onClick={reload}

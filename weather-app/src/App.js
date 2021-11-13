@@ -1,5 +1,4 @@
 
-import './App.css';
 import { ChakraProvider } from "@chakra-ui/react";
 import { WeatherInfo } from './pages/WeatherInfoPage';
 import { Global } from "@emotion/react";

@@ -37,7 +37,7 @@ export const Barchart = ({
           <YAxis stroke="#fff" />
           <Tooltip />
           <Legend />
-          <Bar dataKey="temp" fill="#82ca9d" />
+          <Bar dataKey="temp" fill="#8fe0ff" />
         </BarChart>
       </ResponsiveContainer>
     </Box>

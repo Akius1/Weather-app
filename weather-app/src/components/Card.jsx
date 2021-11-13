@@ -33,8 +33,12 @@ export const WeatherCard = ({ data, handleSelect, active }) => {
         shadow: "lg",
       }}
       data-testid="weather-card"
+      // backgroundColor="linear-gradient(140deg,#8fe0ff,#75b4e3)"
+      backgroundColor="#bdd4e7"
+backgroundImage= "linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%)"
+
     >
-      <Heading fontSize="sm" color="white">
+      <Heading fontSize="sm" color="#000">
         {data.title}
       </Heading>
       <Tag
@@ -46,7 +50,7 @@ export const WeatherCard = ({ data, handleSelect, active }) => {
         mt="1"
         fontSize="sm"
         textTransform="capitalize"
-        color="white"
+        color="#000"
       >
         {data.data[0].weather[0].description}
       </Tag>
@@ -55,7 +59,7 @@ export const WeatherCard = ({ data, handleSelect, active }) => {
         boxSize="100px"
       />
       <Flex>
-        <Text color="white">
+        <Text color="#000">
           {calculateAverageTemp()}
           <sup>o</sup>
           {localStorage.getItem("temperature_unit") &&
