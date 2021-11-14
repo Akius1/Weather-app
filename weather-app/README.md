@@ -12,6 +12,15 @@ This is portable react js web application for weather forecasting and current we
 - Chakra UI
 - React Query
 
+## UI styling
+Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+
+I choose Chakra UI because is very flexible and easy to get started with.
+
+## State management 
+React Query
+React Query is a good tool for Fetching, caching and updating data in your React applications all without touching any "global state" and with just few lines of code. And I feel this project does not require the ambiguity of redux.
+
 ### Getting Started With the app
 
 1. Clone this repository into your local machine:
