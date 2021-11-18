@@ -3,7 +3,7 @@ import axios from "axios";
 
 const routes = {
   weatherInfo:
-    "http://api.openweathermap.org/data/2.5/forecast?appid=75f972b80e26f14fe6c920aa6a85ad57",
+    "https://api.openweathermap.org/data/2.5/forecast?appid=75f972b80e26f14fe6c920aa6a85ad57",
 };
 
 
